@@ -1,5 +1,5 @@
 # Task Tracker API
-API de lista de tarefas feita Express.
+API de lista de tarefas feita com Express.
 
 ## Funcionalidades
 - Criar novas tarefas, com uma descrição para cada uma
